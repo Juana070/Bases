@@ -1,0 +1,9 @@
+body
+{
+    background-color: rgb(129, 119, 139);
+    color: #bbb6af;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
